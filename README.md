@@ -1,5 +1,9 @@
 #spring-boot 整合mybatis 提供restful接口服务
 
+##配置
+	服务端口配置： application.properties。 也可以放在application.yml中
+	数据库等配置：application.yml
+
 ##运行： mvn spring-boot:run
 
 ##访问:

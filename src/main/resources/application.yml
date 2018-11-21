@@ -16,9 +16,9 @@ spring:
   profiles: dev
 
   datasource:
-    url: jdbc:mysql://192.168.1.82:1541/springboottest
-    username: uinnova
-    password: Uinnova@123
+    url: jdbc:mysql://192.168.1.82:3306/springboottest
+    username: 111
+    password: @123
     driver-class-name: com.mysql.jdbc.Driver
     # 使用druid数据源
     type: com.alibaba.druid.pool.DruidDataSource
